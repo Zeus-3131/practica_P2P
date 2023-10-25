@@ -1,4 +1,3 @@
-# practica_P2P
 # Práctica de Comunicación P2P (Peer-to-Peer)
 
 En esta práctica, implementamos una comunicación P2P básica entre dos nodos que se ejecutan en la misma máquina. Cada nodo actúa tanto como servidor como cliente, lo que permite una comunicación bidireccional entre ellos. 
